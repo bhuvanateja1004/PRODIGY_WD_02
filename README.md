@@ -15,8 +15,7 @@ A simple and interactive stopwatch web app built using HTML, CSS, and JavaScript
 - JavaScript
 
 ## 🌍 Live Demo
-https://yourusername.github.io/stopwatch-web-app/
+[Click Here to View Live](https://bhuvanateja1004.github.io/PRODIGY_WD_02/)
 
----
 
-Developed by buddy 💻✨
+Developed by Bhuvana 💻✨
